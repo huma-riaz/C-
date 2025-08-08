@@ -1,0 +1,14 @@
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\C#\Operators\Operators\bin\Debug\Operators.exe.config
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\C#\Operators\Operators\bin\Debug\Operators.exe
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\C#\Operators\Operators\bin\Debug\Operators.pdb
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\C#\Operators\Operators\obj\Debug\Operators.csproj.AssemblyReference.cache
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\C#\Operators\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\C#\Operators\Operators\obj\Debug\Operators.exe
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\C#\Operators\Operators\obj\Debug\Operators.pdb
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\C-\Operators\Operators\bin\Debug\Operators.exe.config
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\C-\Operators\Operators\bin\Debug\Operators.exe
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\C-\Operators\Operators\bin\Debug\Operators.pdb
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\C-\Operators\Operators\obj\Debug\Operators.csproj.AssemblyReference.cache
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\C-\Operators\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\C-\Operators\Operators\obj\Debug\Operators.exe
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\C-\Operators\Operators\obj\Debug\Operators.pdb
