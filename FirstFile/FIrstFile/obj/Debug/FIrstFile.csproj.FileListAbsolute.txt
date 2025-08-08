@@ -1,0 +1,7 @@
+C:\Users\Shahid F79\OneDrive\ドキュメント\HUMA RIAZ\C#\FIrstFile\FIrstFile\bin\Debug\FIrstFile.exe.config
+C:\Users\Shahid F79\OneDrive\ドキュメント\HUMA RIAZ\C#\FIrstFile\FIrstFile\bin\Debug\FIrstFile.exe
+C:\Users\Shahid F79\OneDrive\ドキュメント\HUMA RIAZ\C#\FIrstFile\FIrstFile\bin\Debug\FIrstFile.pdb
+C:\Users\Shahid F79\OneDrive\ドキュメント\HUMA RIAZ\C#\FIrstFile\FIrstFile\obj\Debug\FIrstFile.csproj.AssemblyReference.cache
+C:\Users\Shahid F79\OneDrive\ドキュメント\HUMA RIAZ\C#\FIrstFile\FIrstFile\obj\Debug\FIrstFile.csproj.CoreCompileInputs.cache
+C:\Users\Shahid F79\OneDrive\ドキュメント\HUMA RIAZ\C#\FIrstFile\FIrstFile\obj\Debug\FIrstFile.exe
+C:\Users\Shahid F79\OneDrive\ドキュメント\HUMA RIAZ\C#\FIrstFile\FIrstFile\obj\Debug\FIrstFile.pdb
