@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\C-\\VariablesAndDataTypes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E943C51-4A0F-4020-AAED-7A6B885340FA}|VariablesAndDataTypes\\VariablesAndDataTypes.csproj|c:\\users\\shahid f79\\onedrive\\desktop\\huma riaz\\c-\\variablesanddatatypes\\variablesanddatatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E943C51-4A0F-4020-AAED-7A6B885340FA}|VariablesAndDataTypes\\VariablesAndDataTypes.csproj|solutionrelative:variablesanddatatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\C-\\VariablesAndDataTypes\\VariablesAndDataTypes\\Program.cs",
+              "RelativeDocumentMoniker": "VariablesAndDataTypes\\Program.cs",
+              "ToolTip": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\C-\\VariablesAndDataTypes\\VariablesAndDataTypes\\Program.cs",
+              "RelativeToolTip": "VariablesAndDataTypes\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwDcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:08:48.162Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
