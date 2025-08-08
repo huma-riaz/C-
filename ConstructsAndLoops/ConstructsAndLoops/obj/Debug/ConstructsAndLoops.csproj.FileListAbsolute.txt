@@ -1,0 +1,7 @@
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\C-\ConstructsAndLoops\ConstructsAndLoops\bin\Debug\ConstructsAndLoops.exe.config
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\C-\ConstructsAndLoops\ConstructsAndLoops\bin\Debug\ConstructsAndLoops.exe
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\C-\ConstructsAndLoops\ConstructsAndLoops\bin\Debug\ConstructsAndLoops.pdb
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\C-\ConstructsAndLoops\ConstructsAndLoops\obj\Debug\ConstructsAndLoops.csproj.AssemblyReference.cache
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\C-\ConstructsAndLoops\ConstructsAndLoops\obj\Debug\ConstructsAndLoops.csproj.CoreCompileInputs.cache
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\C-\ConstructsAndLoops\ConstructsAndLoops\obj\Debug\ConstructsAndLoops.exe
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\C-\ConstructsAndLoops\ConstructsAndLoops\obj\Debug\ConstructsAndLoops.pdb
