@@ -1,0 +1,7 @@
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\C-\ClassesAndObjects\ClassesAndObjects\bin\Debug\ClassesAndObjects.exe.config
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\C-\ClassesAndObjects\ClassesAndObjects\bin\Debug\ClassesAndObjects.exe
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\C-\ClassesAndObjects\ClassesAndObjects\bin\Debug\ClassesAndObjects.pdb
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\C-\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.csproj.AssemblyReference.cache
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\C-\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\C-\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.exe
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\C-\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.pdb
