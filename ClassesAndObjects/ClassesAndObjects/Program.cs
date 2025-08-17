@@ -14,28 +14,29 @@ namespace ClassesAndObjects
             Console.WriteLine("\n\n  Classes And Objects:");
 
             //OBJECTS
-            Students std1 = new Students(1, "Huma", "06E");
-            Students std2 = new Students(2, "Bilal", "snj");
+            Students std1 = new Students("Huma", "girl", 19);
+            Students std2 = new Students("Bilal", "boy", 22);
 
             Console.ReadKey();
         }
     }
 
-    class Students
-    {
-        public int id;
+    class Students   //Class
+    {                //Properties
         public string name;
-        public string batch;
+        public string gender;
+        public int age;
 
-        public Students(int stdid, string stdname, string stdbatch)
+        public Students(string stdname, string stdgender, int stdage)
         {
-            this.id = stdid;
             this.name = stdname;
-            this.batch = stdbatch;
+            this.gender = stdgender;
+            this.age = stdage;
 
-            Console.WriteLine("ID is {0} , Name is {1} And Batch is {2}",
-                                 this.id,this.name,this.batch);
+            Console.WriteLine("{0} is a {1} And age is {2}",
+                             this.name, this.gender,this.age);
         }
+
     }
 
 }
