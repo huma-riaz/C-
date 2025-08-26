@@ -1,7 +1,0 @@
-C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\C-\OOP\OOP\obj\Debug\OOP.csproj.AssemblyReference.cache
-C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\C-\OOP\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
-C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\C-\OOP\OOP\bin\Debug\OOP.exe.config
-C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\C-\OOP\OOP\bin\Debug\OOP.exe
-C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\C-\OOP\OOP\bin\Debug\OOP.pdb
-C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\C-\OOP\OOP\obj\Debug\OOP.exe
-C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\C-\OOP\OOP\obj\Debug\OOP.pdb
