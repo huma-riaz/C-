@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace OOP
 {
+    //Parent Class ki properties Child class mai hoti hai---
     class Animals     //Parent Class
     {
         public string name;
@@ -16,18 +17,14 @@ namespace OOP
         public string sound;
         public void Details()
         {
-            Console.WriteLine("Animal name is {0} And sound is {1}", this.name, this.sound);
+            Console.WriteLine(" Animal name is {0} And sound is {1}", this.name, this.sound);
         }
     }
     class Dog : Cat      //Multi Level Class
     {
         public void dogDetails()
         {
-            Console.WriteLine("Animal name is {0} And sound is {1}", this.name, this.sound);
+            Console.WriteLine(" Animal name is {0} And sound is {1}", this.name, this.sound);
         }
     }
-
-
-
-
 }
