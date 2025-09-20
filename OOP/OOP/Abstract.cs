@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Abstraction
 {
+    //Iski body nhi hoti lekin child class mai zaroor complete kia jata hai...
     abstract class Animal
     {
         public void sound()
@@ -31,4 +32,21 @@ namespace Abstraction
             Console.WriteLine("Monkey eats banana ");
         }
     }
+
+   //  INTERFACE : is mai method/properties k sirf name hoty hn, body nhi
+   //  lekin interface ko implement kr k method ko override krty hn
+
+    public interface IAnimal
+    {
+         void Isound();
+    }
+    public class Icat : IAnimal
+    {
+        public void Isound()
+        {
+            Console.WriteLine("Cat drinks milk.");
+        }
+    }
+
+
 }

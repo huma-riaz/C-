@@ -56,7 +56,12 @@ namespace OOP
             Monkey mymon = new Monkey();
             mymon.eat();
 
-          
+            // INTERFACE
+            Console.WriteLine("\n\n  Interface :");
+            Icat icat = new Icat();
+            icat.Isound();
+
+
 
 
             Console.ReadKey();
