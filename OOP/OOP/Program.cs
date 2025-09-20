@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Abstraction;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -44,6 +45,18 @@ namespace OOP
 
             newstd stdd = new newstd();
             stdd.name();
+
+
+            // Object For Abstract:
+            Console.WriteLine("\n\n  Abstract :");
+            Goat mygoat = new Goat();
+            mygoat.eat();
+            mygoat.sound();
+
+            Monkey mymon = new Monkey();
+            mymon.eat();
+
+          
 
 
             Console.ReadKey();
