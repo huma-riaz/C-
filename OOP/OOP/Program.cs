@@ -62,6 +62,13 @@ namespace OOP
             icat.Isound();
 
 
+            // Object For Encapsulation:
+            Console.WriteLine("\n\n  Encapsulation :");
+            Encapsulation myenc = new Encapsulation();
+            myenc.name = "Huma Riaz";
+            myenc.age = 19;
+            Console.WriteLine("My name is " + myenc.name + " and age is " + myenc.age );
+
 
 
             Console.ReadKey();

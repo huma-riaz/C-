@@ -10,6 +10,26 @@ namespace OOP
   // class k variables ko private rkhty hn...
     class Encapsulation
     {
+        private string Name;
+        private int Age;
+        public string name
+        {
+            get { return Name; }
+            set { Name = value; }
+        }
 
+        public int age
+        {
+            get { return Age; }
+            set { 
+            if (value > 0)
+                {
+                    Age = value;
+                }else
+                {
+                    Console.WriteLine("Enter valid nmbr ");
+                }
+            }
+        }
     }
 }
