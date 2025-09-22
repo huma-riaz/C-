@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\C-\\Generics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E339512-5BF4-45DC-8DC8-56789686535B}|Generics\\Generics.csproj|c:\\users\\shahid f79\\onedrive\\desktop\\huma riaz\\c-\\generics\\generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E339512-5BF4-45DC-8DC8-56789686535B}|Generics\\Generics.csproj|solutionrelative:generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E339512-5BF4-45DC-8DC8-56789686535B}|Generics\\Generics.csproj|c:\\users\\shahid f79\\onedrive\\desktop\\huma riaz\\c-\\generics\\generics\\generic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E339512-5BF4-45DC-8DC8-56789686535B}|Generics\\Generics.csproj|solutionrelative:generics\\generic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E339512-5BF4-45DC-8DC8-56789686535B}|Generics\\Generics.csproj|c:\\users\\shahid f79\\onedrive\\desktop\\huma riaz\\c-\\generics\\generics\\namespace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E339512-5BF4-45DC-8DC8-56789686535B}|Generics\\Generics.csproj|solutionrelative:generics\\namespace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Generic.cs",
+              "DocumentMoniker": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\C-\\Generics\\Generics\\Generic.cs",
+              "RelativeDocumentMoniker": "Generics\\Generic.cs",
+              "ToolTip": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\C-\\Generics\\Generics\\Generic.cs",
+              "RelativeToolTip": "Generics\\Generic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T15:27:46.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NameSpace.cs",
+              "DocumentMoniker": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\C-\\Generics\\Generics\\NameSpace.cs",
+              "RelativeDocumentMoniker": "Generics\\NameSpace.cs",
+              "ToolTip": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\C-\\Generics\\Generics\\NameSpace.cs",
+              "RelativeToolTip": "Generics\\NameSpace.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T10:31:55.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\C-\\Generics\\Generics\\Program.cs",
+              "RelativeDocumentMoniker": "Generics\\Program.cs",
+              "ToolTip": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\C-\\Generics\\Generics\\Program.cs",
+              "RelativeToolTip": "Generics\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T10:30:02.76Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
