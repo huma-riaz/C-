@@ -66,6 +66,33 @@ namespace Collection
 
 
 
+            Console.WriteLine("\n\n QUEUE :");    // FIFO
+            Queue<string> colors = new Queue<string>();
+            colors.Enqueue("Red");
+            colors.Enqueue("Yellow");
+            colors.Enqueue("Orange");
+
+            foreach( var queprint in colors)
+            {
+                Console.WriteLine(queprint);
+            }
+            Console.WriteLine("-------------");
+            Console.WriteLine(colors.Dequeue());
+
+
+
+            Console.WriteLine("\n\n  STACK :");    // LIFO
+            Stack<string> fruits = new Stack<string>();
+            fruits.Push("Apple");
+            fruits.Push("Mango");
+            fruits.Push("Banana");
+
+            foreach( var staprint in fruits)
+            {
+                Console.WriteLine(staprint);
+            }
+            Console.WriteLine("-------------");
+            Console.WriteLine(fruits.Pop());
 
 
 
