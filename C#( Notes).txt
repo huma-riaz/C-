@@ -1,0 +1,16 @@
+1_      What is C# ?
+  C# (C-Sharp) aik programming language hai jo Microsoft ne develop ki hai. Ye language .NET Framework ya 
+  .NET Core par kaam karti hai, aur is se aap desktop apps, web apps, mobile apps, games, aur software 
+  tools bana sakte hain.
+
+2_  Console.write line break nhi krta hai aur writeline se next py code run hota hai.
+  
+3_  Namespace aik container hota hai jis mai hm apni class wagyra apne code ko likhty hn.
+
+4_  program class k andr aik function bana hua hai jo k main func hai aur jb apne code ko run kryn toh sb se
+    phly main func run hota hai.
+
+5_  VARIABLES: aik container hota hai jahan hm apni value ko store krty hn.
+  
+6_  Ctral + Alt key press kr k jahan cursor hoga wo select hojaye ga.
+
